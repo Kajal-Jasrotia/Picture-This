@@ -6,12 +6,8 @@ body {
   border: 0;
   font-family: 'Roboto', sans-serif;
   padding-bottom:80px;
-  overflow-y: hidden;
-  overflow-x: hidden;
 
-}
-::-webkit-scrollbar {
-  display: none;
+
 }
 
 .header {
